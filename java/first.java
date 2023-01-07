@@ -5,7 +5,8 @@ public class first {
 //  this is a program with getters and setters and a constructor
     private String name;
     private String firstname;
-    public int b;
+    private int b;
+    
 
     public String getName() {
         return this.name;
